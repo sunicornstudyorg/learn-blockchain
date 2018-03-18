@@ -2,17 +2,17 @@
 跟老张学习区块链,持续更新。。
 
 - [ ] 为未读
-- [] 为已读
+- [ ] 为已读
 
 ------
 
 - [ ] [基于以太坊的一元夺宝实现](https://github.com/yushuohuanxiu/OneChance)
 
-- [] [区块链技术指南](https://github.com/yeasy/blockchain_guide)
+- [ ] [区块链技术指南](https://github.com/yeasy/blockchain_guide)
 
-- [] [区块链技术指南 book](https://www.gitbook.com/book/yeasy/blockchain_guide)
+- [ ] [区块链技术指南 book](https://www.gitbook.com/book/yeasy/blockchain_guide)
 
-- [] [Blockchain Tutorial](https://github.com/liuchengxu/blockchain-tutorial)
+- [ ] [Blockchain Tutorial](https://github.com/liuchengxu/blockchain-tutorial)
 
 
 # eth 系列
@@ -28,7 +28,7 @@
 
 -----
 
-- [] [以太坊源码(01)：P2P网络及节点发现机制](https://mp.weixin.qq.com/s?__biz=MzA4Mzk2MzUzNg==&mid=2651223325&idx=1&sn=fc1b8b1240f930a9b344c14dd962c7b8)
+- [ ] [以太坊源码(01)：P2P网络及节点发现机制](https://mp.weixin.qq.com/s?__biz=MzA4Mzk2MzUzNg==&mid=2651223325&idx=1&sn=fc1b8b1240f930a9b344c14dd962c7b8)
 
 - [ ] [以太坊源码(02)：交易收发机制](https://mp.weixin.qq.com/s?__biz=MzA4Mzk2MzUzNg==&mid=2651223331&idx=1&sn=ca4d56b3ea6c5dc9b9bcec5bc9dd6e65) 
 

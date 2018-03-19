@@ -46,12 +46,13 @@
 - [ ] [Hyperledger Fabric 1.0 从零开始](https://www.cnblogs.com/aberic/p/7527831.html)
 
 
+# Awesome-blockchain 系列
+- [ ][awesome-blockchain](https://github.com/sunicornstudyorg/awesome-blockchain) 
+
+
 # 推荐博客 
 
 [区块链技术博客 主要eth合约](http://me.tryblockchain.org/)
 
 # 其他
 
-我的网站 [圈内人士](http://100000p.com/) 注册送800 cc代币。
-
-点击链接加入群534209981 [区块链开发者交流](https://jq.qq.com/?_wv=1027&k=5T4XPec)

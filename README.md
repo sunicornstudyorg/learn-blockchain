@@ -47,7 +47,7 @@
 
 
 # Awesome-blockchain 系列
-- [ ][awesome-blockchain](https://github.com/sunicornstudyorg/awesome-blockchain) 
+- [ ] [awesome-blockchain](https://github.com/sunicornstudyorg/awesome-blockchain) 
 
 
 # 推荐博客 

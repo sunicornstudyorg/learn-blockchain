@@ -2,22 +2,22 @@
 跟老张学习区块链,持续更新。。
 
 - [ ] 为未读
-- [ ] 为已读
+- [x] 为已读
 
 ------
 
 - [ ] [基于以太坊的一元夺宝实现](https://github.com/yushuohuanxiu/OneChance)
 
-- [ ] [区块链技术指南](https://github.com/yeasy/blockchain_guide)
+- [x] [区块链技术指南](https://github.com/yeasy/blockchain_guide)
 
-- [ ] [区块链技术指南 book](https://www.gitbook.com/book/yeasy/blockchain_guide)
+- [x ] [区块链技术指南 book](https://www.gitbook.com/book/yeasy/blockchain_guide)
 
 - [ ] [Blockchain Tutorial](https://github.com/liuchengxu/blockchain-tutorial)
 
 
 # eth 系列
 
-- [ ] [以太坊官网文档中文版](http://book.8btc.com/books/6/ethereum/_book/)
+- [x] [以太坊官网文档中文版](http://book.8btc.com/books/6/ethereum/_book/)
 - [ ] [Solidity语言](http://www.tryblockchain.org/)
 - [ ] [Solidity语言Truffle - 以太坊Solidity编程语言开发框架](http://truffle.tryblockchain.org/)
 
